@@ -1,0 +1,164 @@
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\PersonalTable.dll.config
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\PersonalTable.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\PersonalTable.pdb
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\csc.exe
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\csc.exe.config
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\csc.rsp
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\csi.exe
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\csi.exe.config
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\csi.rsp
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.AppContext.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Console.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\vbc.exe
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\vbc.exe.config
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\vbc.rsp
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Antlr3.Runtime.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\EntityFramework.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Newtonsoft.Json.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Helpers.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Mvc.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Optimization.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Razor.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.WebPages.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\WebGrease.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\EntityFramework.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Helpers.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Mvc.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Optimization.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.Razor.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.WebPages.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Newtonsoft.Json.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Antlr3.Runtime.pdb
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csproj.CopyComplete
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.dll
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.pdb
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csprojAssemblyReference.cache
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.Migrations.InitialCreate.resources
+C:\Users\Ekber\source\repos\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csproj.GenerateResource.cache
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\PersonalTable.dll.config
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\PersonalTable.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\PersonalTable.pdb
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\csc.exe
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\csc.exe.config
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\csc.rsp
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\csi.exe
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\csi.exe.config
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\csi.rsp
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.AppContext.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Console.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\vbc.exe
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\vbc.exe.config
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\vbc.rsp
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Antlr3.Runtime.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\EntityFramework.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Newtonsoft.Json.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Helpers.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Mvc.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Optimization.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Razor.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.WebPages.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\WebGrease.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\EntityFramework.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Helpers.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Mvc.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Optimization.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.Razor.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.WebPages.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Newtonsoft.Json.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Antlr3.Runtime.pdb
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csprojAssemblyReference.cache
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.Migrations.InitialCreate.resources
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csproj.GenerateResource.cache
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.csproj.CopyComplete
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.dll
+C:\Users\Ekber\Desktop\New folder\Ikt-demo\PersonalTable\PersonalTable\obj\Debug\PersonalTable.pdb

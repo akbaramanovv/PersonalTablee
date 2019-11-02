@@ -1,0 +1,144 @@
+﻿@model PersonalTable.Models.Person
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Personal Table</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+          integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Public/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+
+</head>
+
+<body>
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-xl-12">
+                @using (Html.BeginForm("Add", "Home", FormMethod.Post, new { enctype = "multipart/form-data", id = "person" }))
+                {
+
+                    <div class="row">
+                        <div class="col-xl-8">
+                            <div class="form-group ">
+                                @Html.LabelFor(m => m.Name)
+                                @Html.TextBoxFor(m => m.Name, new { @class = "form-control col-12" })
+                            </div>
+                            <div class="form-group ">
+                                @Html.LabelFor(m => m.Surname)
+                                @Html.TextBoxFor(m => m.Surname, new { @class = "form-control col-12" })
+                            </div>
+                            <div class="form-group ">
+                                @Html.LabelFor(m => m.PositionId)<br />
+
+                                @Html.DropDownListFor(m => m.PositionId, new SelectList(ViewBag.Positions, "Id", "Name"), "Vəzifə seçin", new { @class = "form-control" })
+                            </div>
+                            <div class="form-group ">
+                                @Html.Label("Şəkil əlavə edin")<br />
+                                @Html.TextBoxFor(m => m.Photo, new { type = "file", onchange = "readUrl(this)" })
+                                <img class="my-3" style="height:120px;width:120px" id="blah" alt="Yoxdur" src="#" />
+                            </div>
+                            <div class="form-group ">
+                                @Html.Label("Giriş çıxış vaxtlarını daxil edin")<br />
+                                <div class="dates">
+                                    @Html.TextBoxFor(m => m.EnterDate, new { @class = "form-control", style = "width:45%", placeholder = "Giriş vaxtı" })
+                                    @Html.TextBoxFor(m => m.ExitDate, new { @class = "form-control", style = "width:45%", placeholder = "Çıxış  vaxtı" })
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <div class="col-xl-3">
+                            @Html.Label("Giriş günlərini seçin")<br />
+                            <ul class=" list-group">
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="1" id="defaultCheck1">
+                                        <label class="form-check-label" for="defaultCheck1">
+                                            Bazar ertəsi
+                                        </label>
+                                    </div>
+
+                                </li>
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="2" id="defaultCheck2">
+                                        <label class="form-check-label" for="defaultCheck2">
+                                            Çərşənbə axşamı
+                                        </label>
+                                    </div>
+
+                                </li>
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="3" id="defaultCheck3">
+                                        <label class="form-check-label" for="defaultCheck3">
+                                            Çərşənbə
+                                        </label>
+                                    </div>
+
+                                </li>
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="4" id="defaultCheck4">
+                                        <label class="form-check-label" for="defaultCheck4">
+                                            Cümə axşamı
+                                        </label>
+                                    </div>
+
+                                </li>
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="5" id="defaultCheck5">
+                                        <label class="form-check-label" for="defaultCheck5">
+                                            Cümə
+                                        </label>
+                                    </div>
+
+                                </li>
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="6" id="defaultCheck6">
+                                        <label class="form-check-label" for="defaultCheck6">
+                                            Şənbə
+                                        </label>
+                                    </div>
+
+                                </li>
+                                <li class="list-group-item">
+                                    <div class="form-check">
+                                        <input class="form-check-input" name="Week" type="checkbox" value="7" id="defaultCheck7">
+                                        <label class="form-check-label" for="defaultCheck7">
+                                            Bazar
+                                        </label>
+                                    </div>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <button type="submit">saxla</button>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.js"></script>
+<script src="http://ajax.microsoft.com/ajax/jquery.validate/1.11.1/additional-methods.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+<script src="~/Public/script.js"></script>
+</html>
+

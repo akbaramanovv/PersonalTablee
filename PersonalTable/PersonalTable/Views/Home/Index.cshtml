@@ -1,0 +1,92 @@
+﻿@model PersonalTable.Models.ViewModel
+@{
+    Layout = null;
+    var t = new List<string>();
+    var t2 = new List<string>();
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Personal Table</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+          integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Public/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+
+</head>
+
+<body>
+
+    <div class="mt-5 container">
+        <div class="border-bottom header">
+            <h1>Personal data table</h1><a href="/Home/Add" class="my-1 btn btn-success"><span style="color:white">Yeni işçi əlavə et</span></a>
+            <a class="my-1 btn btn-success" href="/Home/AddPosition">Yeni vəzifə əlavə edin ..</a>
+
+        </div>
+        <table id="myTable" class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Ad</th>
+                    <th scope="col">Soyad</th>
+                    <th scope="col">Vəzifəsi</th>
+                    <th scope="col">Giriş günləri</th>
+                    <th scope="col">Vaxt</th>
+                    <th scope="col">Şəkil</th>
+                    <th scope="col">Düzəliş et</th>
+                    <th scope="col">Bax</th>
+
+                    <th scope="col">Sil</th>
+
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var p in Model.Person)
+                {
+                <tr>
+                    <th scope="row">@p.Id</th>
+                    <td>@p.Name</td>
+                    <td>@p.Surname</td>
+                    <td>@p.PositionName.Name</td>
+                    <td>
+
+                        <span>@p.Days</span>
+
+
+
+                    </td>
+                    <td>@p.EnterDate.ToString("HH:mm") - @p.ExitDate.ToString("HH:mm")</td>
+                    <td>
+                        <img style="height:60px;width:60px;border:1px hidden black;border-radius:10px;" src="~/Uploads/@p.Photo" />
+                    </td>
+                    <td scope="col"><a href="/Home/Edit/@p.Id" class="btn btn-warning"><i style="color: white;" class="fas fa-edit"></i></a></td>
+                    <td scope="col"><a href="/Home/See/@p.Id" class=" btn btn-info"><i class="fas fa-eye"></i></a></td>
+
+                    <td scope="col"><a data-id="@p.Id" class="personDelete btn btn-danger"><i class="fas fa-trash"></i></a></td>
+
+                </tr>
+                }
+
+
+            </tbody>
+        </table>
+
+
+    </div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+<script src="~/Public/script2.js"></script>
+
+</html>
